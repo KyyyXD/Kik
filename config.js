@@ -37,26 +37,26 @@ global.swb = 'https://discord.gg/'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
+global.pdana = '0813 5442 9979'
 global.povo = '-'
 global.pgopay = '-'
 global.ppulsa = '-'
-global.ppulsa2 = '-'
+global.ppulsa2 = '0813 5169 2548'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283863727413'
-global.nomorown = '6282214729677'
-global.namebot = 'NexBotz'
-global.nameown = 'PutraModz'
+global.nomorbot = '6281779115749'
+global.nomorown = '6281351692548'
+global.namebot = 'FallBotz'
+global.nameown = 'KikyyXD'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282214729677'],
-  ['6283863727733'],
-  ['62838637277192'],
-  ['6282214729677', 'PutraModz', true]
+  ['6281779115749'],
+  ['-'],
+  ['-'],
+  ['6281351692548', 'KikyyXD, true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -108,17 +108,17 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 𝘼𝙗𝙞𝘿𝙚𝙫'//nama group kalian
-global.wm = 'By NexBotz' //Main Watermark
-global.wm2 = 'PutraModz'
-global.wm3 = 'NexBotz | By PutraModz'
+global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 FALLMD'//nama group kalian
+global.wm = 'By FallBotz' //Main Watermark
+global.wm2 = 'KikyyXD'
+global.wm3 = 'FallBotz | By Kikyy'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'PutraModz' 
-global.packname = 'PutraModz'
+global.author = 'KikyyXD' 
+global.packname = 'KikyyXD
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Februari 02 2023'
+global.ultahowner = 'April 04 2023'
 
 
 /*============== LOGO ==============*/
